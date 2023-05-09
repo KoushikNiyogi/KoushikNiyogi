@@ -27,8 +27,8 @@ Passionate about web development
 
 <h2 align="center">📱 Connect With Me </h2>
 <br/>
-<div align="center"><a  href="https://www.linkedin.com/in/rajesh-pradhan-027907219/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pradhan143rajesh@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></div
+<div align="center"><a  href="https://www.linkedin.com/in/koushik-niyogi-4ab121239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div
 </div>
 <br/>
  <br/>
