@@ -69,13 +69,13 @@ Passionate about web development
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajesh890-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KoushikNiyogi&label=Profile%20views&color=0e75b6&style=flat" alt="KoushikNiyogi" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
  
 <div align="center">
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajesh890-bit" alt="rajesh890-bit" /></a> </p>
- <img src="https://github-readme-stats.vercel.app/api?username=rajesh890-bit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajesh Pradhan" />
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KoushikNiyogi" alt="KoushikNiyogi" /></a> </p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikNiyogi&theme=blue-green&hide_border=true" alt="KoushikNiyogi" />
 
 <img src="https://streak-stats.demolab.com/?user=rajesh890-bit&theme=github-dark"
     alt="stats" /></a>
