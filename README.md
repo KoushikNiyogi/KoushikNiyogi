@@ -4,30 +4,26 @@
  <i>Hi 👋, I am Koushik Niyogi.</i> 
 </h1>
 <h2 align="center">
-A passionate full stack web developer from India
+Passionate about web development
 </h2>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Koushik+Niyogi.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Koushik+Niyogi.;I+am+a+Full-stack+Web+developer.;Curious+to+learn+new+web+technologies+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
- 👯 I’m looking to collaborate on ...<br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1KVEDHYtMddALFwpVm_P1rS7PtZtlTT4B/view?usp=share_link">Resume</a><br><br>
- 📫  Know more about me <a href="https://rajesh890-bit.github.io/">Portfolio</a><br><br>
+ 🌱 I have hands-on experience with MERN Stack.<br><br>
+ 👯 I’m looking forward to contribute to some good projects  ...<br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1sbqqthJjYmSV3q6JZ2cUa12eteaYpQ3O/view?usp=sharing">Resume</a><br><br>
+ 📫  Know more about me <a href="https://koushikniyogi.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/Rajesh890-bit?tab=repositories">My Github Repositories</a><br><br> 
- 💬 Ask me about HTML, CSS, , JavaScript, React, Mango DB, Node.js , Express.js <br><br>
- ⚡ How to reach me pradhan143rajesh@gmail.com
+<a href="https://github.com/KoushikNiyogi?tab=repositories">My Github Repositories</a><br><br> 
+ ⚡ How to reach me koushikniyogionlinework@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <br />
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 
 <h2 align="center">📱 Connect With Me </h2>
 <br/>
